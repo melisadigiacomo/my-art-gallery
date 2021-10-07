@@ -15,7 +15,7 @@ I consider my self a content creator. My hobbies are photography and video produ
 ### Photography
 ![photography](./images/photography.png)
 
-#### Digital Illustration
+### Digital Illustration
 ![illustration](./images/illustration.png)
 
 ### Animated GIFs
