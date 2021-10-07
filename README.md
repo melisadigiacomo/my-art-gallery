@@ -1,5 +1,5 @@
 # [My Art Gallery](https://melisagallery.netlify.app/)
-Made a website to show my art work:
+Made a website to show my artwork:
 * Photography
 * Digital Illustration
 * Animated GIFs
