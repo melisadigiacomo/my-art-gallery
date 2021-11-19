@@ -21,4 +21,4 @@ I consider my self a content creator. My hobbies are photography and video produ
 ![illustration](./images/illustration.png)
 
 ### [Animated GIFs](https://melisagallery.netlify.app/#gif)
-![GIF](./images/GIF.png)
+![GIF](./images/artgallery_gifs.gif)
